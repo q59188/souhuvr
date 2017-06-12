@@ -10,7 +10,7 @@
 		echo '<script>window.location.href="http://hi.iuc.me?url='.$page.'";</script>';
 	}else{
 		$m->index('http://it.sohu.com/tag/0633/000038633_100.shtml');
-		$page = "http://it.sohu.com/tag/0633/000038633_101.shtml";
+		$page = "http://it.sohu.com/tag/0633/000038633_102.shtml";
 		echo '<script>window.location.href="http://hi.iuc.me?url='.$page.'";</script>';
 	}
 	
